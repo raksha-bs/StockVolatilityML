@@ -37,5 +37,5 @@ The project utilizes stock data fetched using the [yfinance](https://github.com/
 2. Apoorva Vutukur - [avutuUIC ](https://github.com/avutuUIC)
 3. Devarshi Dhola - [DevarshiDhola07](https://github.com/DevarshiDhola07)
 4. Sanjana Uppalike - [suppa17](https://github.com/suppa17)
-5. Shriraksha B Srinivas - [sbyra](https://github.com/sbyra)
+5. Shriraksha B Srinivas - [raksha-bs](https://github.com/raksha-bs)
 6. Varun P Srivathsa - [varunpuic](https://github.com/varunpuic)
